@@ -1,0 +1,24 @@
+{
+  "dependencies": [
+    {
+      "name": "promt-copywriting",
+      "url": "https://github.com/BermanRoman/promt-copywriting.git",
+      "revision": "bb091b6003f836106d09ed2bd5e91a8fb5d961dd",
+      "files": {
+        "prompt-copywriter.md": "2b2cbf3fa394f0cd4cfb4b4a41a686a5786f0d296c9ded412528795c8b199649",
+        "workflow.md": "550fab4a2d4d086d6e8a4fa0dcae1734c0f1de2e55676c51bde5b9cdacadedea",
+        "methodology-copywriting.md": "74ce6804c464f953e3a7729e97bfc4ab09991ee3a749ace4cebf1cfb86749386",
+        "voice-berman.md": "73559f4444cad82e657ad50793158de47980dfa39d72e72ef1a55e6ca5d39ff7",
+        "methodology-listening.md": "a73b6fa71983434bc5cf20a21b193da071aab94552eaf66e107114b60ed055cf",
+        "roles/writer.md": "a8454eff2607b7c41b9ba38acb91e6a515be1250d6421ac158863beb58de3b58",
+        "roles/editorial.md": "515dcf54c3c2fca9a59248c6d082e46d287e33fb4d27a79d0903d08fc0ab6db8",
+        "roles/fact-checker.md": "aa2889e6e06f155dc66adc0eb65437a6c90d401559e2f3ebba60538d561b944b",
+        "roles/vaska-reader.md": "84989668597b588170006c59307ad70867d5d815efa136da6236c51b4a948770",
+        "references/gusar.md": "ac59f5887a327e629ec9d91bac4bdfa609ba5734eebf5f9b278fe4b36a330764",
+        "references/gusar-slovar.md": "252552e385faf987bf46e72b015e349f70575692d2d70e2ce06af487c9caa89f",
+        "references/gusar-mat.md": "096d723ae99726c96e6749bbe67730dbc96a95cd3ddf99482d428ec91b2bde53",
+        "references/author-edits-gusar4.md": "0ffd4febf162baa7c352e94c8794c711a47f85341ef32890afcdb4c048dc8ec1"
+      }
+    }
+  ]
+}
